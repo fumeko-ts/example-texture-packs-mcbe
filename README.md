@@ -8,7 +8,18 @@ This repository contains example packs that can be used in your own projects as 
 
 ## Download
 
-[Download the animated pack icon pack `.mcpack`](https://github.com/fumeko-ts/example-texture-packs-mcbe/blob/4085933a12cc7b0489c478114c73209722f38257/animated_pack_icon.mcpack?raw=true)
+[Download animated_pack_icon.mcpack`](https://github.com/fumeko-ts/example-texture-packs-mcbe/blob/4085933a12cc7b0489c478114c73209722f38257/animated_pack_icon.mcpack?raw=true)
+
+
+# Custom Pause UI
+
+## Preview
+
+![pause ui](https://github.com/fumeko-ts/example-texture-packs-mcbe/blob/93557a648eb0679f6a9d8d296cabf258b98fe75f/resources/pause_ui.png)
+
+## Download
+
+[Download custom_pause_ui.mcpack](https://github.com/fumeko-ts/example-texture-packs-mcbe/blob/93557a648eb0679f6a9d8d296cabf258b98fe75f/custom_pause_ui.mcpack?raw=true)
 
 
 more coming soon...
